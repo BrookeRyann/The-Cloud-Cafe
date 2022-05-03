@@ -1,0 +1,19 @@
+h1{
+    color: burlywood;
+}
+img{
+    display: inline-block;
+    width: 25%;
+    margin: auto;
+    
+
+    
+}
+ul {
+    border: 5px darkgoldenrod;
+    width: 50%;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+}
